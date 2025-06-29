@@ -13,7 +13,7 @@ Here are some of my recent certifications and virtual experience programs:
   https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_TzJJDAzkrGuicqJRE_1748727036455_completion_certificate.pdf
 
 - **Verizon Cloud Computing Virtual Experience Program – Forage**  
-  *Completed: [Month Year]*  
+  *Completed: [may 2025]*  
   *Skills: Cloud Infrastructure, SaaS, IaaS, PaaS Concepts*
   https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/uu47f3odrfruEWjKw/aNJGnRtgfiK5fQqcR_uu47f3odrfruEWjKw_TzJJDAzkrGuicqJRE_1748480192478_completion_certificate.pdf
 
